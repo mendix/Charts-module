@@ -15,3 +15,7 @@
 /javasource/system/
 /**/node_modules/
 !/javascriptsource/**/node_modules/
+.DS_Store
+/chartwidgets.mpr.bak
+/chartwidgets.mpr.lock
+/nativemobile/builds/
